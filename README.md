@@ -76,12 +76,24 @@ You are enhancing your existing `app.py` application with new features.
 6. Stage only specific changes (if possible)
    <img width="1606" height="578" alt="image" src="https://github.com/user-attachments/assets/06cf391f-3f60-4f1a-a50c-4b27a243f1ed" />
 
-8. Commit with a clear message  
-9. Make another change in `app.py`  
-10. Stage all changes  
-11. Commit again  
-12. View full commit history  
-13. View compact (one‑line) history  
+8. Commit with a clear message
+   <img width="1986" height="258" alt="image" src="https://github.com/user-attachments/assets/5027436c-a2bb-4411-aa17-f46112e5c102" />
+
+10. Make another change in `app.py`
+    <img width="1364" height="380" alt="image" src="https://github.com/user-attachments/assets/67dc3130-7db3-44d1-968b-96d14faa9d36" />
+
+12. Stage all changes
+    <img width="1552" height="112" alt="image" src="https://github.com/user-attachments/assets/2a25f107-01c0-4be3-ba94-04f3409b66bf" />
+
+14. Commit again
+    <img width="1552" height="112" alt="image" src="https://github.com/user-attachments/assets/1d55af02-0547-4887-ab8b-7e6012b915e2" />
+
+16. View full commit history
+    <img width="965" height="359" alt="image" src="https://github.com/user-attachments/assets/b66443b7-4a0c-41b5-accc-c655444c8f59" />
+
+18. View compact (one‑line) history  
+
+<img width="1646" height="324" alt="image" src="https://github.com/user-attachments/assets/98abac79-cf9c-4389-8a77-628330bf40ec" />
 
 ---
 
