@@ -39,7 +39,9 @@ You are starting a new Python project. You need to track your work using Git and
   <img width="1439" height="583" alt="image" src="https://github.com/user-attachments/assets/4c03433a-06ac-48fc-aac1-c022f97cebaa" />
 
 16. Add the remote (`origin`) to your local repo
-    <img width="2566" height="136" alt="image" src="https://github.com/user-attachments/assets/d19e42a3-0735-486c-9e03-81f3301fc730" />
+
+ <img width="2562" height="172" alt="image" src="https://github.com/user-attachments/assets/0b0e3d9d-6ffd-4baa-bacb-7a389c05dd91" />
+
     
 18. Verify the remote configuration  
 19. Push your code to the remote repository  
