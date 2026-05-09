@@ -63,16 +63,25 @@ Track code changes and manage commit history properly.
 You are enhancing your existing `app.py` application with new features.  
 
 ### Tasks  
-1. Modify `app.py` by adding new functionality  
-2. Check what changes are made before staging  
-3. View differences in the file  
-4. Stage only specific changes (if possible)  
-5. Commit with a clear message  
-6. Make another change in `app.py`  
-7. Stage all changes  
-8. Commit again  
-9. View full commit history  
-10. View compact (one‑line) history  
+1. Modify `app.py` by adding new functionality
+   <img width="1594" height="436" alt="image" src="https://github.com/user-attachments/assets/bcac8985-6bd9-410e-ad2f-7b4b128ea0d0" />
+
+3. Check what changes are made before staging
+   <img width="1898" height="352" alt="image" src="https://github.com/user-attachments/assets/696a3d35-f8ee-462a-8484-3d8625e02dfb" />
+
+4. View differences in the file
+
+    <img width="1874" height="592" alt="image" src="https://github.com/user-attachments/assets/fb493a18-cce5-43cd-9522-f6b9d68ca948" />
+
+6. Stage only specific changes (if possible)
+   <img width="1606" height="578" alt="image" src="https://github.com/user-attachments/assets/06cf391f-3f60-4f1a-a50c-4b27a243f1ed" />
+
+8. Commit with a clear message  
+9. Make another change in `app.py`  
+10. Stage all changes  
+11. Commit again  
+12. View full commit history  
+13. View compact (one‑line) history  
 
 ---
 
