@@ -43,8 +43,14 @@ You are starting a new Python project. You need to track your work using Git and
  <img width="2562" height="172" alt="image" src="https://github.com/user-attachments/assets/0b0e3d9d-6ffd-4baa-bacb-7a389c05dd91" />
 
     
-18. Verify the remote configuration  
-19. Push your code to the remote repository  
+18. Verify the remote configuration
+    <img width="2788" height="234" alt="image" src="https://github.com/user-attachments/assets/612b35ad-55b6-45b5-b563-a04495fd9379" />
+
+20. Push your code to the remote repository
+
+<img width="1658" height="370" alt="image" src="https://github.com/user-attachments/assets/547679b3-4976-4a33-88d3-200b077d37f7" />
+
+<img width="2124" height="702" alt="image" src="https://github.com/user-attachments/assets/b184ae18-12e1-4eac-b5ea-3f39eb8e25b6" />
 
 ---
 
