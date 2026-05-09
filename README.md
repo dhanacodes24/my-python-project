@@ -145,16 +145,39 @@ Learn how to manage mistakes and unfinished work.
 You are in the middle of development but need to handle urgent changes and fix mistakes.  
 
 ### Tasks  
-1. Make changes to `app.py` but do **NOT** commit  
-2. Stash the changes (include untracked files)  
-3. Check the stash list  
-4. Apply the stashed changes back  
-5. Commit the changes  
-6. Make another commit with incorrect code  
-7. Undo the last commit using **reset**  
-8. Make another commit  
-9. Undo a commit using **revert** (create a new reversing commit)  
-10. Verify the commit history  
+1. Make changes to `app.py` but do **NOT** commit
+
+   <img width="1352" height="250" alt="image" src="https://github.com/user-attachments/assets/a30d4394-4454-4924-85ec-777aac0e1c8a" />
+
+3. Stash the changes (include untracked files)
+   <img width="1956" height="266" alt="image" src="https://github.com/user-attachments/assets/16722c8b-8fc8-4132-b44a-1c3fd4615863" />
+
+5. Check the stash list
+   <img width="1426" height="182" alt="image" src="https://github.com/user-attachments/assets/642239b2-0fe5-4812-ba18-155df50b477a" />
+
+7. Apply the stashed changes back
+   <img width="1758" height="322" alt="image" src="https://github.com/user-attachments/assets/26d86563-864e-4f96-832b-4b528175905a" />
+
+9. Commit the changes
+    <img width="1638" height="316" alt="image" src="https://github.com/user-attachments/assets/e0745ecc-b485-4429-88fa-da214d731bbd" />
+
+11. Make another commit with incorrect code
+    <img width="1616" height="386" alt="image" src="https://github.com/user-attachments/assets/9aef0876-fd75-43a9-8f44-f85975ce6786" />
+
+13. Undo the last commit using **reset**
+    <img width="1718" height="242" alt="image" src="https://github.com/user-attachments/assets/6a412110-335d-4f39-9fa0-111c83e3497e" />
+
+15. Make another commit
+    <img width="1914" height="334" alt="image" src="https://github.com/user-attachments/assets/555d5fc9-fcb3-454b-bdba-3092f9cf2f6b" />
+
+17. Undo a commit using **revert** (create a new reversing commit)
+
+    <img width="1572" height="582" alt="image" src="https://github.com/user-attachments/assets/6fd4443f-ab5f-46b0-8496-d32281dec190" />
+
+19. Verify the commit history
+
+    <img width="2468" height="1174" alt="image" src="https://github.com/user-attachments/assets/6fee64ba-45b8-4ae5-8901-f51f58a6fe66" />
+
 
 ---
 
