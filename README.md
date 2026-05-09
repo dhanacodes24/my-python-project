@@ -13,16 +13,19 @@ Set up a new Git project and push it to a remote repository.
 You are starting a new Python project. You need to track your work using Git and upload it to a remote repository.  
 
 ### Tasks  
-1. Create a new folder for your project  
-2. Initialize a Git repository  
-3. Create a file named `app.py` and add some Python code  
-4. Check the current Git status  
-5. Stage the file  
-6. Commit with a meaningful message  
-7. Create a remote repository (GitHub or similar)  
-8. Add the remote (`origin`) to your local repo  
-9. Verify the remote configuration  
-10. Push your code to the remote repository  
+1. Create a new folder for your project
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3523139e-3c08-4056-9fdb-0f770ed87921" />
+
+3. Initialize a Git repository  
+4. Create a file named `app.py` and add some Python code  
+5. Check the current Git status  
+6. Stage the file  
+7. Commit with a meaningful message  
+8. Create a remote repository (GitHub or similar)  
+9. Add the remote (`origin`) to your local repo  
+10. Verify the remote configuration  
+11. Push your code to the remote repository  
 
 ---
 
