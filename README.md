@@ -1,8 +1,5 @@
 # Git & GitHub Assessment  
 
-**Duration:** 30 Minutes  
-
----
 
 ## Question 1: Project Initialization & First Push  
 
@@ -17,42 +14,55 @@ You are starting a new Python project. You need to track your work using Git and
 
 <img width="1372" height="289" alt="image" src="https://github.com/user-attachments/assets/e5f7d162-d9d2-4fa6-a7e5-d66da49edf1c" />
 
-
-
-3. Initialize a Git repository
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+2. Initialize a Git repository
    <img width="941" height="137" alt="image" src="https://github.com/user-attachments/assets/d5d18798-760b-470a-8d2d-8d1d6d01024a" />
-
-5. Create a file named `app.py` and add some Python code
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+3. Create a file named `app.py` and add some Python code
    <img width="2238" height="616" alt="image" src="https://github.com/user-attachments/assets/19a74aeb-fefc-4ad4-b831-ee1b200c47fc" />
 
-7. Check the current Git status
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+4. Check the current Git status
    <img width="1980" height="378" alt="image" src="https://github.com/user-attachments/assets/12d89128-6b20-465b-869e-e079d24e7cc4" />
-
-9. Stage the file
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+5. Stage the file
 
    <img width="1794" height="352" alt="image" src="https://github.com/user-attachments/assets/18dec46a-ae86-4541-bb2f-0e0cc49103ec" />
-    
-12. Commit with a meaningful message
+---------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------- 
+6. Commit with a meaningful message
     <img width="1918" height="304" alt="image" src="https://github.com/user-attachments/assets/6b3b3e98-2ed1-4d19-a41b-da70c0392e3e" />
-
-14. Create a remote repository (GitHub or similar)
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+7. Create a remote repository (GitHub or similar)
   <img width="1439" height="583" alt="image" src="https://github.com/user-attachments/assets/4c03433a-06ac-48fc-aac1-c022f97cebaa" />
 
-16. Add the remote (`origin`) to your local repo
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+8. Add the remote (`origin`) to your local repo
 
  <img width="2562" height="172" alt="image" src="https://github.com/user-attachments/assets/0b0e3d9d-6ffd-4baa-bacb-7a389c05dd91" />
 
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
     
-18. Verify the remote configuration
+9. Verify the remote configuration
     <img width="2788" height="234" alt="image" src="https://github.com/user-attachments/assets/612b35ad-55b6-45b5-b563-a04495fd9379" />
 
-20. Push your code to the remote repository
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+10. Push your code to the remote repository
 
 <img width="1658" height="370" alt="image" src="https://github.com/user-attachments/assets/547679b3-4976-4a33-88d3-200b077d37f7" />
 
 <img width="2124" height="702" alt="image" src="https://github.com/user-attachments/assets/b184ae18-12e1-4eac-b5ea-3f39eb8e25b6" />
 
----
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ## Question 2: Working with Changes & History  
 
