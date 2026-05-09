@@ -106,15 +106,33 @@ Work with branches and manage feature development.
 You are developing a new feature separately to avoid affecting the main code.  
 
 ### Tasks  
-1. Create a new branch (e.g., `feature-update`)  
-2. Switch to the new branch  
-3. Modify `app.py` with new feature logic  
-4. Stage and commit the changes  
-5. Switch back to the `main` branch  
-6. Merge the feature branch into `main`  
-7. Verify changes are merged  
-8. Delete the branch safely  
-9. Try force deleting a branch (create a dummy branch for this)  
+1. Create a new branch (e.g., `feature-update`)
+   <img width="1464" height="278" alt="image" src="https://github.com/user-attachments/assets/0c75b411-5dc5-4db0-b6d3-03065a9f555d" />
+
+3. Switch to the new branch
+   <img width="1464" height="278" alt="image" src="https://github.com/user-attachments/assets/78e15c4a-96a4-4ea9-b1ab-81a0cdd5b640" />
+
+5. Modify `app.py` with new feature logic
+   <img width="1226" height="306" alt="image" src="https://github.com/user-attachments/assets/ebc5eb8c-d3f5-4057-ac89-1474a39b5bc3" />
+
+6. Stage and commit the changes
+   <img width="1898" height="320" alt="image" src="https://github.com/user-attachments/assets/a0980676-237f-48d1-ae59-3e0ac04376c0" />
+
+8. Switch back to the `main` branch
+   <img width="1554" height="418" alt="image" src="https://github.com/user-attachments/assets/a7319a39-b736-48cb-aa6a-b70973cdc4a6" />
+
+10. Merge the feature branch into `main`
+    <img width="1554" height="418" alt="image" src="https://github.com/user-attachments/assets/46d536d5-d93a-4079-bd09-47e2c32c64df" />
+
+12. Verify changes are merged
+    <img width="1718" height="318" alt="image" src="https://github.com/user-attachments/assets/639c044b-3853-4a8b-ad06-208b2050cd07" />
+
+14. Delete the branch safely
+    <img width="1816" height="272" alt="image" src="https://github.com/user-attachments/assets/78083186-fd59-41e4-a9d9-06bd2495755d" />
+
+16. Try force deleting a branch (create a dummy branch for this)
+    <img width="1640" height="254" alt="image" src="https://github.com/user-attachments/assets/eb21e0d3-58e8-4041-8969-c7958c5c2201" />
+
 
 ---
 
