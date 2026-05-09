@@ -19,15 +19,28 @@ You are starting a new Python project. You need to track your work using Git and
 
 
 
-3. Initialize a Git repository  
-4. Create a file named `app.py` and add some Python code  
-5. Check the current Git status  
-6. Stage the file  
-7. Commit with a meaningful message  
-8. Create a remote repository (GitHub or similar)  
-9. Add the remote (`origin`) to your local repo  
-10. Verify the remote configuration  
-11. Push your code to the remote repository  
+3. Initialize a Git repository
+   <img width="941" height="137" alt="image" src="https://github.com/user-attachments/assets/d5d18798-760b-470a-8d2d-8d1d6d01024a" />
+
+5. Create a file named `app.py` and add some Python code
+   <img width="2238" height="616" alt="image" src="https://github.com/user-attachments/assets/19a74aeb-fefc-4ad4-b831-ee1b200c47fc" />
+
+7. Check the current Git status
+   <img width="1980" height="378" alt="image" src="https://github.com/user-attachments/assets/12d89128-6b20-465b-869e-e079d24e7cc4" />
+
+9. Stage the file
+
+   <img width="1794" height="352" alt="image" src="https://github.com/user-attachments/assets/18dec46a-ae86-4541-bb2f-0e0cc49103ec" />
+    
+12. Commit with a meaningful message
+    <img width="1918" height="304" alt="image" src="https://github.com/user-attachments/assets/6b3b3e98-2ed1-4d19-a41b-da70c0392e3e" />
+
+14. Create a remote repository (GitHub or similar)
+  <img width="1439" height="583" alt="image" src="https://github.com/user-attachments/assets/4c03433a-06ac-48fc-aac1-c022f97cebaa" />
+
+16. Add the remote (`origin`) to your local repo  
+17. Verify the remote configuration  
+18. Push your code to the remote repository  
 
 ---
 
