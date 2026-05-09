@@ -15,7 +15,8 @@ You are starting a new Python project. You need to track your work using Git and
 ### Tasks  
 1. Create a new folder for your project
 
-<img width="1108" height="188" alt="image" src="https://github.com/user-attachments/assets/fd3b12ac-8406-4152-96ec-a9d7329895ce" />
+<img width="1372" height="289" alt="image" src="https://github.com/user-attachments/assets/e5f7d162-d9d2-4fa6-a7e5-d66da49edf1c" />
+
 
 
 3. Initialize a Git repository  
